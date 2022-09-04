@@ -10,3 +10,8 @@ hr{
     height: 0px;
     width: 40%;
 }
+
+.circular{
+    border-radius: 100%;
+    height: 200px;
+}
